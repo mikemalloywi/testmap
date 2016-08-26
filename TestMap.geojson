@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Old House", "Lat": 43.061016, "Lon": -88.024421 }, "geometry": { "type": "Point", "coordinates": [ -88.024421, 43.061016 ] } },
+{ "type": "Feature", "properties": { "Name": "Old Apt", "Lat": 43.059367, "Lon": -87.886269 }, "geometry": { "type": "Point", "coordinates": [ -87.886269, 43.059367 ] } },
+{ "type": "Feature", "properties": { "Name": "Current House", "Lat": 43.058728, "Lon": -89.425407 }, "geometry": { "type": "Point", "coordinates": [ -89.425407, 43.058728 ] } }
+]
+}
